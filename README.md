@@ -166,7 +166,7 @@ Classification- <a href="https://www.kaggle.com/iamsajanbhagat/dominance-analysi
 
 <hr>
 
-### User Guide for computing Relative Importance when the response variable is Continous
+### User Guide for computing Relative Importance when the response variable is Continuous
 
 **Using Boston Housing Dataset downloaded from: https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html**
 
